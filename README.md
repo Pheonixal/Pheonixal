@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Almas</h3>
 
 
-- 🔭 I’m currently working as **Odoo software developer** at QZHub
+- 🔭 I’m currently working as **Odoo software developer** at Appstream
 - 👨🏽‍💻 The Master of Computer Science (MCS)
 
 <img src="https://acegif.com/wp-content/uploads/cat-typing-7.gif" alt="Coder GIF" width="480" height="360">
